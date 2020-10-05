@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-<!--
-**plooney81/plooney81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>General Info</h2>
+<p>
+My name is Pete Looney. I am a software engineer currently completing coursework for a four-month-long online web development boot-camp. I am currently residing in Houston, Texas, where I was born and raised.
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=plooney81.plooney81)
+[![macos-catalina](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://www.apple.com/macos/catalina-preview)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+<hr>
+
+<div>
+    <ul>
+        <li>🔭  I’m currently working on: incorporating view engine templates</li>
+        <li>🌱 I’m currently learning: Express/Node.js/Databases</li>
+        <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/">LinkedIn</a></li>
+    </ul>
+</div>
+
+<hr>
+<h2>GitHub Stats:</h2>
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plooney81" style="height: 225px; width: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=plooney81" style="height: 225px; width: auto;">
+</div>
