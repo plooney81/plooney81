@@ -15,7 +15,7 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 <div>
     <ul>
         <li>🔭  I’m currently working on: incorporating view engine templates</li>
-        <li style="display: flex; align-items: center">🌱 I’m currently learning: Express/Node.js/Databases <img src="https://wakatime.com/badge/github/plooney81/node-101.svg"></li>
+        <li style="display: flex; align-items: center">🌱 I’m currently learning: PostgreSQL</li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/">LinkedIn</a></li>
     </ul>
 </div>
@@ -27,6 +27,7 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
     <img src="https://github-readme-stats.vercel.app/api?username=plooney81" style="height: 225px; width: auto;">
 </div>
 <!--
+<img src="https://wakatime.com/badge/github/plooney81/node-101.svg">
 <div>
     <img src="https://wakatime.com/share/@60ac0dc4-bafe-4e66-bbb8-497c3ceddc1c/267b8182-b862-4c97-9dfe-d888e9e6e70f.svg">
 </div>
