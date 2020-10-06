@@ -15,7 +15,7 @@ My name is Pete Looney. I am a software engineer currently completing coursework
 <div>
     <ul>
         <li>🔭  I’m currently working on: incorporating view engine templates</li>
-        <li>🌱 I’m currently learning: Express/Node.js/Databases</li>
+        <li style="display: flex; align-items: center">🌱 I’m currently learning: Express/Node.js/Databases <img src="https://wakatime.com/badge/github/plooney81/node-101.svg"></li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/">LinkedIn</a></li>
     </ul>
 </div>
