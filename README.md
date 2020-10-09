@@ -26,7 +26,7 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plooney81" style="height: 225px; width: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=plooney81" style="height: 225px; width: auto;">
 </div>
-<figure><embed src="https://wakatime.com/share/@60ac0dc4-bafe-4e66-bbb8-497c3ceddc1c/75958358-002f-4f62-b179-42fdbb4e1e9b.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@60ac0dc4-bafe-4e66-bbb8-497c3ceddc1c/75958358-002f-4f62-b179-42fdbb4e1e9b.svg"></embed>
 <!--
 <img src="https://wakatime.com/badge/github/plooney81/node-101.svg">
 <div>
