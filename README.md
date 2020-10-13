@@ -14,8 +14,8 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 
 <div>
     <ul>
-        <li>🔭  I’m currently working on: incorporating view engine templates</li>
-        <li style="display: flex; align-items: center">🌱 I’m currently learning: PostgreSQL</li>
+        <li>🔭  I’m currently working on: something amazing!</li>
+        <li style="display: flex; align-items: center">🌱 I’m currently learning: Backend Foundations</li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/">LinkedIn</a></li>
     </ul>
 </div>
