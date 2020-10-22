@@ -15,7 +15,7 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 <div>
     <ul>
         <li>🔭  I’m currently working on: something amazing!</li>
-        <li>🌱 I’m currently learning:<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></li>
+        <li style="display: flex; align-items: center;">🌱 I’m currently learning:<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/">LinkedIn</a></li>
     </ul>
 </div>
