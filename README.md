@@ -15,14 +15,37 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 <div>
     <ul>
         <li>🔭  I’m currently working on: something amazing!</li>
-        <li style="display: flex; align-items: center">🌱 I’m currently learning: Backend Foundations</li>
+        <li>🌱 I’m currently learning:<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/">LinkedIn</a></li>
+    </ul>
+</div>
+
+<div>
+    <h2>Languages</h2>
+    <ul>
+        <li><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></li>
+        <li><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></li>
+        <li><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></li>
+        <li><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></li>
+        <li><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></li>
+        <li><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></li>
+    </ul>
+</div>
+<div>
+    <h2>Additional Knowledge/h2>
+    <ul>
+        <li><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></li>
+        <li><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/></li>
+        <li><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></li>
+        <li><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></li>
+        <li><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></li>
+        <li><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></li>
     </ul>
 </div>
 
 <hr>
 <h2>GitHub Stats:</h2>
-<div style="display: flex;">
+<div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plooney81" style="height: 225px; width: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=plooney81" style="height: 225px; width: auto;">
 </div>
