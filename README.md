@@ -8,8 +8,7 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=plooney81.plooney81)
 [![macos-catalina](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://www.apple.com/macos/catalina-preview)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
 <hr>
 
 <div>
@@ -48,6 +47,8 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 </div>
 <img src="https://wakatime.com/share/@60ac0dc4-bafe-4e66-bbb8-497c3ceddc1c/7a987dd6-981d-404a-9f0e-e61557e759be.svg"></img>
 <!--
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 <img src="https://wakatime.com/badge/github/plooney81/node-101.svg">
 <div>
     <img src="https://wakatime.com/share/@60ac0dc4-bafe-4e66-bbb8-497c3ceddc1c/267b8182-b862-4c97-9dfe-d888e9e6e70f.svg">
