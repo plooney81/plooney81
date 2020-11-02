@@ -1,3 +1,5 @@
+![Header](./githubLogo.png)
+
 <h1>Howdy 👋</h1>
 
 <h2>General Info</h2>
