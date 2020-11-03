@@ -2,7 +2,6 @@
 
 <h1>Howdy 👋</h1>
 
-<h2>General Info</h2>
 <p>
 My name is Pete Looney. I am a software engineer completing coursework for a four-month-long online web development boot-camp. I am eager to use my Industrial Engineering knowledge and past experience as a field engineer to the software community. I am currently residing in Houston, Texas, where I was born and raised.
 </p>
