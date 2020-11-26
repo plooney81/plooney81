@@ -14,8 +14,8 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 
 <div>
     <ul>
-        <li>🔭  I’m currently working on: A react-redux project!</li>
-        <li>🌱 I’m currently learning:<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></li></li>
+        <li>🔭  I’m currently working on: A an awesome group project!</li>
+        <li>🌱 I’m currently learning:<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
         <li>💻 Portfolio: Checkout my portfolio <a href="https://looney-portfolio.netlify.app/" target="_blank">Here</a></li>
     </ul>
@@ -33,6 +33,8 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 </div>
 <div>
     <h2>Frameworks & Additional Knowledge</h2>
+        <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
         <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
         <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
