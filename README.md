@@ -19,12 +19,12 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
         <li>💻 Portfolio: Checkout my portfolio <a href="https://looney-portfolio.netlify.app/" target="_blank">Here</a></li>
         <li>🚴 Goals:</li>
+    </ul>
+</div>
         - [ ] Continue my understanding of PostgreSQL
         - [ ] Learn two additional database management systems:
         - [ ] MySQL
         - [x] MongoDB
-    </ul>
-</div>
 
 <div>
     <h2>Languages</h2>
