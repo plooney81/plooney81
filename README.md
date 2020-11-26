@@ -25,7 +25,7 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
 - [ ] Continue my understanding of PostgreSQL
 - [ ] Learn two additional database management systems:
 - [ ] MySQL
-- [] MongoDB
+- [ ] MongoDB
 
 <div>
     <h2>Languages</h2>
