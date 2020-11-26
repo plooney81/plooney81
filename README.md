@@ -21,10 +21,10 @@ My name is Pete Looney. I am a software engineer completing coursework for a fou
         <li>🚴 Goals:</li>
     </ul>
 </div>
-        - [ ] Continue my understanding of PostgreSQL
-        - [ ] Learn two additional database management systems:
-        - [ ] MySQL
-        - [x] MongoDB
+- [ ] Continue my understanding of PostgreSQL
+- [ ] Learn two additional database management systems:
+- [ ] MySQL
+- [x] MongoDB
 
 <div>
     <h2>Languages</h2>
