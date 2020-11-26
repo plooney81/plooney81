@@ -1,5 +1,7 @@
 ![Header](./githubLogo.png)
-
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 <h1>Howdy 👋</h1>
 
 <p>
