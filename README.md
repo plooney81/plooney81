@@ -14,8 +14,8 @@ My name is Pete Looney. I am a software engineer that just completed coursework 
 
 <div>
     <ul>
-        <li>🔭 I’m currently working on: Algorithm and Data Structures</li>
-        <li>🌱 I’m currently learning:<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></li>
+        <li>🔭 I’m currently working on: Algorithms and Data Structures</li>
+<!--         <li>🌱 I’m currently learning:<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></li> -->
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
         <li>💻 <a href="https://looney-portfolio.netlify.app/" target="_blank">Portfolio</a>: Check out my portfolio
         <li>🚴 Goals:</li>
