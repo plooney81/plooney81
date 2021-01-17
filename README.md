@@ -15,7 +15,7 @@ My name is Pete Looney. I am a software engineer that just completed coursework 
 <div>
     <ul>
         <li>🔭 I’m currently working on: Algorithms and Data Structures</li>
-<!--         <li>🌱 I’m currently learning:<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></li> -->
+        <li>🌱 I’m currently using:<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
         <li>💻 <a href="https://looney-portfolio.netlify.app/" target="_blank">Portfolio</a>: Check out my portfolio
         <li>🚴 Goals:</li>
@@ -57,7 +57,6 @@ My name is Pete Looney. I am a software engineer that just completed coursework 
 </div>
 <img src="https://wakatime.com/share/@60ac0dc4-bafe-4e66-bbb8-497c3ceddc1c/7a987dd6-981d-404a-9f0e-e61557e759be.svg"></img>
 <!--
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 <img src="https://wakatime.com/badge/github/plooney81/node-101.svg">
 <div>
