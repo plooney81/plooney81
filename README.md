@@ -14,18 +14,18 @@ My name is Pete Looney. I am a software engineer that just completed coursework 
 
 <div>
     <ul>
-        <li>🔭 I’m currently working on: Algorithms and Data Structures</li>
-        <li>🌱 I’m currently using:<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></li>
+        <li>🔭 I’m currently working on: Something Amazing</li>
+        <li>🌱 I’m currently using:<img src="https://img.shields.io/badge/Clojure%20-%23Clojure.svg?&style=for-the-badge&logo=Clojure&logoColor=Clojure"/></li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
         <li>💻 <a href="https://looney-portfolio.netlify.app/" target="_blank">Portfolio</a>: Check out my portfolio
-        <li>🚴 Goals:</li>
+        <li>🚴 Goals:
+            <ul>
+                <li>Continue my understanding of PostgreSQL</li>
+                <li>Learn Clojure</li>
+            </ul>
+        </li>
     </ul>
 </div>
-
-- [ ] Continue my understanding of PostgreSQL
-- [ ] Learn two additional database management systems:
-    - [ ] MySQL
-    - [ ] MongoDB
 
 <div>
     <h2>Languages</h2>
