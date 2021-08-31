@@ -21,7 +21,7 @@ My name is Pete Looney. I am a software engineer that just completed coursework 
         <li>🚴 Goals:
             <ul>
                 <li>Continue my understanding of PostgreSQL</li>
-                <li>Learn Clojure</li>
+                <li>Continue my understanding of Clojure</li>
             </ul>
         </li>
     </ul>
