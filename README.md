@@ -1,21 +1,9 @@
 ![Header](./githubLogo.png)
 
 <h1>Howdy 👋</h1>
-
-<p>
-My name is Pete Looney. I am a software engineer that just completed coursework for a four-month-long web development boot-camp. I am eager to use my Industrial Engineering knowledge and past experience as a field engineer in the software community. I am currently residing in Houston, Texas, where I was born and raised.
-</p>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=plooney81.plooney81)
-[![macos-catalina](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://www.apple.com/macos/catalina-preview)
-
-<hr>
-
 <div>
     <ul>
-        <li>🔭 I’m currently working on: Something Amazing</li>
-        <li>🌱 I’m currently using:<img src="https://img.shields.io/badge/Clojure%20-%23Clojure.svg?&style=for-the-badge&logo=Clojure&logoColor=Clojure"/></li>
+        <li>🌱 I’m currently using:<img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&labelColor=91dc47&color=90b4fe"/></li>
         <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
         <li>💻 <a href="https://looney-portfolio.netlify.app/" target="_blank">Portfolio</a>: Check out my portfolio
         <li>🚴 Goals:
@@ -29,13 +17,13 @@ My name is Pete Looney. I am a software engineer that just completed coursework 
 
 <div>
     <h2>Languages</h2>
+        <img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&labelColor=91dc47&color=90b4fe"/>
         <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-    </ul>
 </div>
 <div>
     <h2>Frameworks & Additional Knowledge</h2>
