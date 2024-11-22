@@ -1,6 +1,5 @@
 ![Header](./githubLogo.png)
 
-<h1>Howdy 👋</h1>
 <div>
     <ul>
         <li>🌱 I’m currently using:<img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&labelColor=91dc47&color=90b4fe"/></li>
