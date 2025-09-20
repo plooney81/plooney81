@@ -1,21 +1,28 @@
 ![Header](./githubLogo.png)
 
 <div>
-    <ul>
-        <li>🌱 I’m currently using:<img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&labelColor=91dc47&color=90b4fe"/></li>
-        <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/peter-looney-27b732166/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
-        <li>💻 <a href="https://looney-portfolio.netlify.app/" target="_blank">Portfolio</a>: Check out my portfolio
-        <li>🚴 Goals:
-            <ul>
-                <li>Continue my understanding of PostgreSQL</li>
-                <li>Continue my understanding of Clojure</li>
-            </ul>
-        </li>
-    </ul>
+  <ul>
+    <li>🌱 I’m currently using:<br>
+        <img src="https://img.shields.io/badge/PureScript-%23PureScript.svg?style=for-the-badge&logo=purescript&labelColor=5e2ca5&color=8a7bff" alt="PureScript">
+    </li>
+    <li>📫 How to reach me:<br>
+      <a href="https://www.linkedin.com/in/peter-looney-27b732166/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </li>
+    <li>💻 <a href="https://looney-portfolio.netlify.app/" target="_blank">Portfolio</a>: Check out my portfolio</li>
+    <li>🚴 Goals:
+      <ul>
+        <li>Keep learning PureScript and other functional languages</li>
+<!--         <li>Continue </li> -->
+      </ul>
+    </li>
+  </ul>
 </div>
 
 <div>
     <h2>Languages</h2>
+        <img src="https://img.shields.io/badge/PureScript-%23PureScript.svg?style=for-the-badge&logo=purescript&labelColor=5e2ca5&color=8a7bff" alt="PureScript">
         <img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&labelColor=91dc47&color=90b4fe"/>
         <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
