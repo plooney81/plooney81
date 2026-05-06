@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </li>
-    <li>💻 <a href="https://looney-portfolio.netlify.app/" target="_blank">Portfolio</a>: Check out my portfolio</li>
+    <li>💻 <a href="https://peterlooney.dev/" target="_blank">Portfolio</a>: Check out my portfolio</li>
     <li>🚴 Goals:
       <ul>
         <li>Keep learning PureScript and other functional languages</li>
