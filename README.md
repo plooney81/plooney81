@@ -2,7 +2,7 @@
   <img src="./banner.svg" alt="Peter Looney — software engineer. Clojure · ClojureScript · PureScript · Houston, TX" width="100%">
 </a>
 
-<code>// about</code>
+----
 
 Full-stack engineer with 5+ years of professional experience in **Clojure**, **ClojureScript**, and **PureScript**, building production systems in functional languages. I like greenfield work, careful migrations, and tools that respect the people using them.
 
@@ -10,7 +10,7 @@ Full-stack engineer with 5+ years of professional experience in **Clojure**, **C
 - 🩺 Previously spent nearly four years at **Luminare** working across the stack in **Clojure / ClojureScript** on healthcare products, including a greenfield build, a SPA-to-SSR migration, and a Python decision-engine project with **Mayo Clinic**.
 - 🛠️ Outside of work I run a self-hosted home server stack, maintain a few open source Clojure libraries, and tinker with hardware projects.
 
-<code>// projects</code>
+<!-- <code>// projects</code>
 
 **[nectar-sql](https://github.com/plooney81/nectar-sql)** · <sub><code>Clojure library</code></sub><br>
 Parses raw SQL strings into HoneySQL data structures using JSQLParser. Supports `SELECT`, `INSERT`, `UPDATE`, and `DELETE` queries. Published to Clojars and ships with a [live in-browser demo ↗](https://nectar-sql.com).
@@ -18,8 +18,8 @@ Parses raw SQL strings into HoneySQL data structures using JSQLParser. Supports 
 **[HoneySQL](https://github.com/seancorfield/honeysql)** · <sub><code>Open source contributor</code></sub><br>
 Contributor to `seancorfield/honeysql`, the widely used Clojure library for building SQL statements as data structures.
 
-<code>// skills</code>
-
+<code>// skills</code> -->
+----
 **Languages**<br>
 <img src="https://img.shields.io/badge/Clojure-2a1f4a?style=for-the-badge&logo=clojure&logoColor=c4aaff" alt="Clojure">
 <img src="https://img.shields.io/badge/ClojureScript-2a1f4a?style=for-the-badge&logo=clojure&logoColor=c4aaff" alt="ClojureScript">
@@ -49,7 +49,7 @@ Contributor to `seancorfield/honeysql`, the widely used Clojure library for buil
 <img src="https://img.shields.io/badge/Docker-2a1f4a?style=for-the-badge&logo=docker&logoColor=c4aaff" alt="Docker">
 <img src="https://img.shields.io/badge/Linux-2a1f4a?style=for-the-badge&logo=linux&logoColor=c4aaff" alt="Linux">
 
-<code>// contact</code>
+----
 
 I'm always interested in conversations about functional programming, healthcare software, and developer tools.
 
